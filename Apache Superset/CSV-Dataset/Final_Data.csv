@@ -1,0 +1,21 @@
+ID,Tiltle,Position,Skill,Salary,Jobstart_date,Job_end_date,Technology _Level,Role,Cycle,Service_Score,Total_number_of_profiles,Provider_Name,Discount,Duration(days)
+1,Network Engineer,Junior Network Engineer,Signal Transfer Point(STP),900,02-01-2024,30-01-2024,Level A,Junior Network Engineer,1,4.2,3,Provider A,10,28
+2,Network Engineer,Senior Network Engineer,Signal Transfer Point(STP),1500,01-02-2024,30-06-2024,Level B,Senior Network Engineer,2,4.5,2,Provider B,18,150
+3,Software Engineer,Junior Developer,Java,900,01-03-2024,30-07-2024,common,Junior Developer,1,4.8,1,Provider D,10,151
+4,Software Engineer,Developer,Java,1000,01-04-2024,31-07-2024,common,Full Stack Developer,2,4.1,0,Provider B,0,121
+6,Front End Dev,Front End Dev,java Script,999,13-01-2024,13-01-2024,common,dev,1,4.6,0,Provider C,20,0
+8, Network Engineer     , Junior Network Engineer   , Signal Transfer Point(STP) ,900,01-02-2024,30-04-2024, Level A          , Junior Network Engineer   ,1,4.3,1,Provider C,10,89
+9, Software Engineer     , Junior Developer          , Java                   ,900,01-03-2024,30-07-2024, common           , Junior Developer          ,1,4.7,1,Provider A,7,151
+10, Network Engineer     , Senior Network Engineer   , Signal Transfer Point(STP) ,1500,01-02-2024,30-06-2024, Level B          , Senior Network Engineer   ,2,4.4,2,Provider B,0,150
+11, Software Engineer     , Developer                 , Java                   ,1000,01-04-2024,31-07-2024, common           , Full Stack Developer      ,2,4.9,3,Provider D,0,121
+14, Front End Dev         , Front End Dev              , java Script            ,999,13-01-2024,13-04-2024, common           , dev                       ,1,3.9,1,Provider D,0,91
+17, Network Engineer     , Junior Network Engineer   , Signal Transfer Point(STP) ,900,01-02-2024,30-04-2024, Level A          , Junior Network Engineer   ,1,4.2,1,Provider C,15,89
+18, Network Engineer     , Senior Network Engineer   , Signal Transfer Point(STP) ,1500,01-02-2024,30-06-2024, Level B          , Senior Network Engineer   ,2,4.7,4,Provider B,15,150
+19, Software Engineer     , Developer                 , Java                   ,1000,01-04-2024,30-07-2024, common           , Full Stack Developer      ,2,4.5,3,Provider D,15,120
+20, Software Engineer     , Junior Developer          , Java                   ,900,01-03-2024,31-07-2024, common           , Junior Developer          ,1,4.6,1,Provider A,15,152
+27, Front End Dev         , Front End Dev              , java Script            ,999,13-01-2024,13-01-2024, common           , dev                       ,1,4.8,2,Provider A,15,0
+28,Software Engineer,Software Engineer for Agile,"API Testing, Documentation",800,12-01-2024,31-12-2024, Level A          ,Web Developer,NA,4.1,0,Provider A,0,354
+29,Software Engineer,Battery Management System for 48V hybrid,"AUTOSAR, MSR, Matlab, Canoe, InCA",1000,12-01-2024,31-12-2024, Level A          ,Embedded developer,NA,4.4,2,Provider B,15,354
+30,Network Engineer,Network Engineer for Agile,"SIP, IPv4, IPv6",1000,14-01-2024,31-12-2024, Level A          ,Junior Network Engineer,NA,4.6,2,Provider A,15,352
+31,Software Engineer,Software Engineer for Agile in the domain of Data Science,"API Testing, Documentation",1000,14-01-2024,31-12-2024, Level A          ,Junior Data Scientist,NA,4.7,2,Provider A,0,352
+32,Software Engineer,Java,Testung,1000,02-01-2024,09-02-2024, Level A          ,Dev,NA,4.3,2,Provider A,0,38

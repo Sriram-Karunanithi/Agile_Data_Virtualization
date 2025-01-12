@@ -1,0 +1,33 @@
+Service_Request_ID , Providername , Username , Password , Role , Service_Type , Description , Status , Created_On , Completed_On , Expenses , Service_Score,Negotiation,Discount
+1001, Amazon , user_01 , pass_01 , Analyst , Cloud Services , Provisioning cloud resources , Open ,2022-01-01, NA ,1000,4.2,Yes,10
+1002, Google , user_02 , pass_02 , Administrator , Search Engine Optimization , Improving search rankings , In Progress ,2022-01-02, NA ,1500,4.5,Yes,18
+1003, Microsoft , user_03 , pass_03 , Executive , Software Development , Custom software solutions , Closed ,2022-01-03,2022-01-10,5000,4.8,Yes,10
+1004, Salesforce , user_04 , pass_04 , Analyst , CRM Services , Customer relationship management , Open ,2022-01-04, NA ,1200,4.1,No,0
+1005, IBM , user_05 , pass_05 , Administrator , Data Analytics , Analyzing business data , In Progress ,2022-01-05, NA ,1800,4.6,Yes,20
+1006, Oracle , user_06 , pass_06 , Executive , Database Management , Managing enterprise databases , Closed ,2022-01-06,2022-01-12,3500,4.3,Yes,10
+1007, SAP , user_07 , pass_07 , Analyst , Enterprise Resource Planning , Business process optimization , Open ,2022-01-07, NA ,2000,4.7,Yes,7
+1008, Cisco , user_08 , pass_08 , Administrator , Networking Solutions , Designing and implementing networks , In Progress ,2022-01-08, NA ,2500,4.4,No,0
+1009, Dell , user_09 , pass_09 , Executive , Hardware Services , Providing hardware solutions , Closed ,2022-01-09,2022-01-16,3000,4.9,No,0
+1010, HP , user_10 , pass_10 , Analyst , IT Support , Technical assistance for IT issues , Open ,2022-01-10, NA ,800,3.9,No,0
+1011, Intel , user_11 , pass_11 , Administrator , Data Security , Implementing data security measures , In Progress ,2022-01-11, NA ,1200,4.2,Yes,15
+1012, Nvidia , user_12 , pass_12 , Executive , Graphics Processing , High-performance graphics solutions , Closed ,2022-01-12,2022-01-18,4000,4.7,Yes,15
+1013, Adobe , user_13 , pass_13 , Analyst , Creative Cloud Services , Design and multimedia solutions , Open ,2022-01-13, NA ,1800,4.5,Yes,15
+1014, Sony , user_14 , pass_14 , Administrator , Consumer Electronics , Manufacturing electronic devices , In Progress ,2022-01-14, NA ,2800,4.6,Yes,15
+1015, Samsung , user_15 , pass_15 , Executive , Mobile Technologies , Developing mobile applications , Closed ,2022-01-15,2022-01-22,3200,4.8,Yes,15
+1016, LG , user_16 , pass_16 , Analyst , Home Appliances , Producing home electronic appliances , Open ,2022-01-16, NA ,900,4.1,No,0
+1017, Lenovo , user_17 , pass_17 , Administrator , PC Manufacturing , Building personal computers , In Progress ,2022-01-17, NA ,1500,4.4,Yes,15
+1018, Huawei , user_18 , pass_18 , Executive , Telecommunications , Providing communication solutions , Closed ,2022-01-18,2022-01-25,3500,4.6,Yes,15
+1019, Cisco , user_19 , pass_19 , Analyst , Networking Solutions , Designing and implementing networks , Open ,2022-01-19, NA ,2000,4.7,No,0
+1020, Dell , user_20 , pass_20 , Administrator , Hardware Services , Providing hardware solutions , In Progress ,2022-01-20, NA ,2500,4.3,No,0
+1021, HP , user_21 , pass_21 , Executive , IT Support , Technical assistance for IT issues , Closed ,2022-01-21,2022-01-28,3000,4.9,No,0
+1022, Intel , user_22 , pass_22 , Analyst , Data Security , Implementing data security measures , Open ,2022-01-22, NA ,1200,4.2,No,0
+1023, Nvidia , user_23 , pass_23 , Administrator , Graphics Processing , High-performance graphics solutions , In Progress ,2022-01-23, NA ,1800,4.7,No,0
+1024, Adobe , user_24 , pass_24 , Executive , Creative Cloud Services , Design and multimedia solutions , Closed ,2022-01-24,2022-01-31,4000,4.5,Yes,15
+1025, Sony , user_25 , pass_25 , Analyst , Consumer Electronics , Manufacturing electronic devices , Open ,2022-01-25, NA ,2800,4.6,Yes,10
+1026, Samsung , user_26 , pass_26 , Administrator , Mobile Technologies , Developing mobile applications , In Progress ,2022-01-26, NA ,3200,4.8,No,0
+1027, LG , user_27 , pass_27 , Executive , Home Appliances , Producing home electronic appliances , Closed ,2022-01-27,2022-02-03,900,4.1,Yes,10
+1028, Lenovo , user_28 , pass_28 , Analyst , PC Manufacturing , Building personal computers , Open ,2022-01-28, NA ,1500,4.4,No,0
+1029, Huawei , user_29 , pass_29 , Administrator , Telecommunications , Providing communication solutions , In Progress ,2022-01-29, NA ,3500,4.6,Yes,10
+1030, Amazon , user_30 , pass_30 , Executive , Cloud Services , Provisioning cloud resources , Closed ,2022-01-30,2022-02-06,1000,4.2,Yes,10
+1031, Google , user_31 , pass_31 , Analyst , Search Engine Optimization , Improving search rankings , Open ,2022-01-31, NA ,1500,4.5,Yes,10
+1032, Microsoft , user_32 , pass_32 , Administrator , Software Development , Custom software solutions , In Progress ,2022-02-01, NA ,5000,4.8,No,0
